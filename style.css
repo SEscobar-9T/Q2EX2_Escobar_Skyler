@@ -1,0 +1,37 @@
+
+		
+		body {
+			background-color: lightskyblue;
+			font-family: courier;	
+		}
+
+		img {
+			width:230px;
+			display: block;
+		}
+
+		h1 {
+			text-align: center;
+		}
+
+		.container {
+			display: inline-flex;
+		}
+
+		h1 {
+			color: white;
+		}
+
+		h3 {
+			color: white;
+		}
+
+		li {
+			color: white;
+		}
+
+		p {
+			color: white;
+		}
+
+	</style>
